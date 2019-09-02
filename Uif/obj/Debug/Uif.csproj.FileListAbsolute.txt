@@ -1,0 +1,47 @@
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Debug\Uif.exe.config
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Debug\Uif.exe
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Debug\Uif.pdb
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Debug\en\Uif.resources.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Debug\Utils.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Debug\Utils.pdb
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.AboutBox.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.mainForm.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.Properties.Resources.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.AboutBox.en.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csproj.GenerateResource.Cache
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\en\Uif.resources.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.exe
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.pdb
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\LINQ App.exe.config
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\LINQ App.exe
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\LINQ App.pdb
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\en\LINQ App.resources.dll
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\Utils.dll
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\Utils.pdb
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.AboutBox.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.mainForm.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.Properties.Resources.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.AboutBox.en.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csproj.GenerateResource.Cache
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\en\LINQ App.resources.dll
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\LINQ App.exe
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\LINQ App.pdb
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\LINQ App.exe.config
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\LINQ App.exe
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\LINQ App.pdb
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\en\LINQ App.resources.dll
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\Utils.dll
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Debug\Utils.pdb
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csprojAssemblyReference.cache
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.AboutBox.resources
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.mainForm.resources
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.Properties.Resources.resources
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.AboutBox.en.resources
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csproj.GenerateResource.cache
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\en\LINQ App.resources.dll
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\Uif.csproj.CopyComplete
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\LINQ App.exe
+D:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Debug\LINQ App.pdb

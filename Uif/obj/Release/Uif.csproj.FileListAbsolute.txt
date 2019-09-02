@@ -1,0 +1,29 @@
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Release\Uif.exe.config
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Release\Uif.exe
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Release\Uif.pdb
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Release\en\Uif.resources.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Release\Utils.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\bin\Release\Utils.pdb
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.csprojResolveAssemblyReference.cache
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.AboutBox.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.mainForm.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.Properties.Resources.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.AboutBox.en.resources
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.csproj.GenerateResource.Cache
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\en\Uif.resources.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.exe
+C:\Programming\C# Labs and Projects\LINQ Application\Uif\obj\Release\Uif.pdb
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Release\LINQ App.exe.config
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Release\LINQ App.exe
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Release\LINQ App.pdb
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Release\en\LINQ App.resources.dll
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Release\Utils.dll
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\bin\Release\Utils.pdb
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\Uif.AboutBox.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\Uif.mainForm.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\Uif.Properties.Resources.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\Uif.AboutBox.en.resources
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\Uif.csproj.GenerateResource.Cache
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\en\LINQ App.resources.dll
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\LINQ App.exe
+C:\Programming\CSharp Labs and Projects\LINQ Application\Uif\obj\Release\LINQ App.pdb

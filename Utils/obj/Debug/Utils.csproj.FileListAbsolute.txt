@@ -1,0 +1,10 @@
+C:\Programming\C# Labs and Projects\LINQ Application\Utils\bin\Debug\Utils.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Utils\bin\Debug\Utils.pdb
+C:\Programming\C# Labs and Projects\LINQ Application\Utils\obj\Debug\Utils.dll
+C:\Programming\C# Labs and Projects\LINQ Application\Utils\obj\Debug\Utils.pdb
+D:\Programming\CSharp Labs and Projects\LINQ Application\Utils\bin\Debug\Utils.dll
+D:\Programming\CSharp Labs and Projects\LINQ Application\Utils\bin\Debug\Utils.pdb
+D:\Programming\CSharp Labs and Projects\LINQ Application\Utils\obj\Debug\Utils.csprojAssemblyReference.cache
+D:\Programming\CSharp Labs and Projects\LINQ Application\Utils\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\Programming\CSharp Labs and Projects\LINQ Application\Utils\obj\Debug\Utils.dll
+D:\Programming\CSharp Labs and Projects\LINQ Application\Utils\obj\Debug\Utils.pdb
