@@ -5,7 +5,7 @@ This is a simple LINQ application aimed to demonstrate the basic operations of "
 LINQ is used to perform queries against  data stored in objects in a similar way that SQL queries are executed against relational data sources.
 
 
-![](https://raw.githubusercontent.com/yuryshukhrov/graphical-shape-app/master/app-demo.png)
+![](https://raw.githubusercontent.com/yuryshukhrov/linq-app/master/Demo/app.png)
 
 The description of all features is available in the documentation.
 
